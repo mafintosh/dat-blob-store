@@ -6,6 +6,8 @@ The blob store [dat](https://github.com/maxogden/dat) uses per default
 npm install dat-blob-store
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/dat-blob-store.svg?style=flat)](http://travis-ci.org/mafintosh/dat-blob-store)
+
 ## Usage
 
 ``` js
