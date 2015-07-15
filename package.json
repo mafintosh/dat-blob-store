@@ -1,6 +1,6 @@
 {
   "name": "dat-blob-store",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The blob store dat uses per default",
   "main": "index.js",
   "dependencies": {
