@@ -8,7 +8,7 @@ module.exports = BlobStore
 function BlobStore (dir) {
   if (!(this instanceof BlobStore)) return new BlobStore(dir)
   this.dir = dir
-  this.cabs = cabs(path.join(dir, '.dat', 'blobs'))
+  this.cabs = cabs(path.join(dir, 'data.dat', 'blobs'))
   this.local = blobs(dir)
 }
 

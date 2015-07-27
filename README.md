@@ -23,7 +23,7 @@ ws.end(function () {
 ```
 
 The blob store will store two copies of the file written. One in `test.txt` and one
-content-addressed in `.dat/blobs`.
+content-addressed in `data.dat/blobs`.
 
 ## License
 
